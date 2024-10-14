@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmonochord_web=self.webpackChunkmonochord_web||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World!","permalink":"/monochord-web/blog/hello-world","unlisted":false}]}')}}]);
