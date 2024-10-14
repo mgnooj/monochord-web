@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/monochord-web/microton",
+  "source": "@site/src/pages/microton.md",
+  "title": "Microton",
+  "description": "The Euclidean Instruments Microton is a virtual synthesizer series with a fresh approach to making microtonal music.",
+  "frontMatter": {
+    "title": "Microton"
+  },
+  "unlisted": false
+}

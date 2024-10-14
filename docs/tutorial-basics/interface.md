@@ -4,15 +4,15 @@ sidebar_position: 10
 
 # Interface
 
-![Monochord Interface](/img/interface_with_keyboard.png)
+![Microton Interface](/img/interface_with_keyboard.png)
 
-Let's look at a quick overview of the Monochord's user interface.
+Let's look at a quick overview of the Microton's user interface.
 
 ## Tuning toolbar
 
 ![Toolbar](/img/toolbar.png)
 
-The tuning toolbar gives you options to interact with the Monochord's tuning system on the largest scale. Save, load, generate, and delete tunings; choose whether the UI defaults to cents or ratio display; and edit the MIDI map transpose to suit your tuning.
+The tuning toolbar gives you options to interact with the Microton's tuning system on the largest scale. Save, load, generate, and delete tunings; choose whether the UI defaults to cents or ratio display; and edit the MIDI map transpose to suit your tuning.
 
 ## Tuning dashboard
 
@@ -22,7 +22,7 @@ The tuning dashboard gives you a text-and-numbers based representation of your c
 
 ![Dashboard - styling](/img/styler.png)
 
-When an element is selected on the Monochord view, the tuning dashboard changes to an element detail view, where users can view and edit an elements fundamental properties and styling features.
+When an element is selected on the Microton view, the tuning dashboard changes to an element detail view, where users can view and edit an elements fundamental properties and styling features.
 
 ## Monochord
 

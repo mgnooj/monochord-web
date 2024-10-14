@@ -1,0 +1,26 @@
+{
+  "id": "tutorial-basics/interface",
+  "title": "Interface",
+  "description": "Microton Interface",
+  "source": "@site/docs/tutorial-basics/interface.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/interface",
+  "permalink": "/monochord-web/docs/tutorial-basics/interface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microton",
+    "permalink": "/monochord-web/docs/category/microton"
+  },
+  "next": {
+    "title": "Tuning",
+    "permalink": "/monochord-web/docs/tutorial-basics/tuning"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tutorial-extras/au",
+  "title": "Audio Unit",
+  "description": "Use your new creations in your favorite DAW.",
+  "source": "@site/docs/tutorial-extras/au.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/au",
+  "permalink": "/monochord-web/docs/tutorial-extras/au",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_position": 40
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Synth",
+    "permalink": "/monochord-web/docs/tutorial-extras/synth"
+  }
+}

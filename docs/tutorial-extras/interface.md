@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Interface
 
-A quick introduction to the Monochord's user interface.
+A quick introduction to the Microton's user interface.
 
 ## Tuning toolbar
 Save, load, and delete tunings; display cents/ratio; MIDI map transpose

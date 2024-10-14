@@ -12,7 +12,7 @@ const Main: FeatureItem = {
   img: require('@site/static/img/interface_with_keyboard.png').default,
   description: (
     <>
-      The Euclidean Instruments Monochord gives you unparalleled control over
+      The Euclidean Instruments Microton series gives you unparalleled control over
       the frequencies your synth produces. All in a simple, musician-friendly package.
     </>
   )
@@ -29,12 +29,12 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Analog warmth, simplified',
+    title: 'Classic tones, simplified',
     img: require('@site/static/img/analog.png').default,
     description: (
       <>
         From extra-fat basses to razor-sharp leads to cosmic pads and beyond,
-        the Monochord is a workhorse for tones that harken back to the classic analog synths of the 70s and 80s.
+        the Microton is a workhorse for tones that harken back to the classic synths of the 70s and 80s.
       </>
     ),
   },

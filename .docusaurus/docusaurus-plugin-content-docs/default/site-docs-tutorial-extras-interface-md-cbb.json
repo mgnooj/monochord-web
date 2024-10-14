@@ -1,0 +1,26 @@
+{
+  "id": "tutorial-extras/interface",
+  "title": "Interface",
+  "description": "A quick introduction to the Microton's user interface.",
+  "source": "@site/docs/tutorial-extras/interface.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/interface",
+  "permalink": "/monochord-web/docs/tutorial-extras/interface",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microton FM",
+    "permalink": "/monochord-web/docs/category/microton-fm"
+  },
+  "next": {
+    "title": "Tuning",
+    "permalink": "/monochord-web/docs/tutorial-extras/tuning"
+  }
+}

@@ -3,20 +3,20 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Monochord & Monochord Bass',
+  title: 'Euclidean Instruments',
   tagline: 'Microtonal Analog Modeling Synthesis',
   favicon: 'img/littlelogo.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://euclidean-instruments.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/monochord-web/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'euclidean', // Usually your GitHub org/user name.
-  projectName: 'monochord', // Usually your repo name.
+  organizationName: 'mgnooj', // Usually your GitHub org/user name.
+  projectName: 'monochord-web', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -47,8 +47,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    //image: '',
     navbar: {
       title: 'Euclidean Instruments',
       logo: {
@@ -56,26 +55,27 @@ const config: Config = {
         src: 'img/littlelogo.png',
       },
       items: [
+        {to: '/microton', label: 'Microton', position: 'left'},
+        //{to: '/deltaz', label: 'Delta-Z', position: 'left'},
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Docs',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
+        {to: '/blog', label: 'Blog', position: 'left'}
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: ' ',
           items: [
+            {
+              label: 'Home',
+              to: '/',
+            },
             {
               label: 'Docs',
               to: '/docs/intro',
@@ -83,37 +83,37 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
+          title: ' ',
           items: [
             {
               label: 'Blog',
               to: '/blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Contact',
+              to: '/contact',
             },
           ],
         },
+        //{
+        //  title: ' ',
+        //  items: [
+        //    {
+        //      label: 'Instagram',
+        //      href: 'https://instagram.com',
+        //    },
+        //    {
+        //      label: 'YouTube',
+        //      href: 'https://youtube.com',
+        //    },
+        //    {
+        //      label: 'Soundcloud',
+        //      href: 'https://soundcloud.com',
+        //    },
+        //  ],
+        //},
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Euclidean Instruments, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Euclidean Instruments, LLC`,
     },
     prism: {
       theme: prismThemes.github,

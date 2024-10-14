@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/markdown-page",
+  "source": "@site/src/pages/markdown-page.md",
+  "title": "Microton",
+  "description": "Microton is a virtual analog synthesizer with a fresh approach to making microtonal music.",
+  "frontMatter": {
+    "title": "Microton"
+  },
+  "unlisted": false
+}

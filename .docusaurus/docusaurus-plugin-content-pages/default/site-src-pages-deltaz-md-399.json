@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/monochord-web/deltaz",
+  "source": "@site/src/pages/deltaz.md",
+  "title": "Delta-Z",
+  "description": "Delta-Z",
+  "frontMatter": {
+    "title": "Delta-Z"
+  },
+  "unlisted": false
+}

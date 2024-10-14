@@ -4,11 +4,11 @@ sidebar_position: 30
 
 # Synth
 
-Dive into the Monochord's flexible synthesis module.
+Dive into the Microton's flexible synthesis module.
 
 ## Overview: Subtractive Synthesis
 
-Like many analog-inspired synths, the Monochord can be broken down into four parts:
+Like many analog-inspired synths, the Microton can be broken down into four parts:
 
     - Oscillator(s): The component that emits a sound wave.
     - Filter: The component that modifies the sound wave's audible signals.
@@ -28,7 +28,7 @@ Morphing oscillator:
 
 Control settings in between these values represent a custom wave interpolating the two basic waves. For example, a setting of 50% is a wavetable representing [-----]???
 
-The Monochord features two different oscillator circuits: one monophonic, the other polyphonic.
+The Microton features two different oscillator circuits: one monophonic, the other polyphonic.
 
 The Monophonic circuit has two morphing oscillators: the Main Oscillator and the Sub Oscillator.
 

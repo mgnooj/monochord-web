@@ -1,0 +1,26 @@
+{
+  "id": "tutorial-basics/au",
+  "title": "Audio Unit",
+  "description": "Use your new creations in your favorite DAW.",
+  "source": "@site/docs/tutorial-basics/au.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/au",
+  "permalink": "/monochord-web/docs/tutorial-basics/au",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 40,
+  "frontMatter": {
+    "sidebar_position": 40
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Synth",
+    "permalink": "/monochord-web/docs/tutorial-basics/synth"
+  },
+  "next": {
+    "title": "Microton FM",
+    "permalink": "/monochord-web/docs/category/microton-fm"
+  }
+}

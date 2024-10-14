@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://euclidean-instruments.com/monochord-web/blog</id>
+    <title>Euclidean Instruments Blog</title>
+    <updated>2024-10-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://euclidean-instruments.com/monochord-web/blog"/>
+    <subtitle>Euclidean Instruments Blog</subtitle>
+    <icon>https://euclidean-instruments.com/monochord-web/img/littlelogo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello World!]]></title>
+        <id>https://euclidean-instruments.com/monochord-web/blog/hello-world</id>
+        <link href="https://euclidean-instruments.com/monochord-web/blog/hello-world"/>
+        <updated>2024-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microton launches October 2024!]]></summary>
+        <content type="html"><![CDATA[<p>Microton launches October 2024!</p>
+<p>We'll be posting news, tutorials, videos, and other fun stuff here. Stay tuned!</p>]]></content>
+        <author>
+            <name>Euclidean Instruments</name>
+            <uri>https://euclidean-instruments.com</uri>
+        </author>
+    </entry>
+</feed>

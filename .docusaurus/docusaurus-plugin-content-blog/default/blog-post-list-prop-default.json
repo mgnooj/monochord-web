@@ -1,0 +1,10 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Hello World!",
+      "permalink": "/monochord-web/blog/hello-world",
+      "unlisted": false
+    }
+  ]
+}
