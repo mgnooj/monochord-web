@@ -8,7 +8,7 @@ export default {
   "tagline": "Microtonal Analog Modeling Synthesis",
   "favicon": "img/littlelogo.png",
   "url": "https://euclidean-instruments.com",
-  "baseUrl": "/monochord-web/",
+  "baseUrl": "/",
   "organizationName": "mgnooj",
   "projectName": "monochord-web",
   "onBrokenLinks": "throw",

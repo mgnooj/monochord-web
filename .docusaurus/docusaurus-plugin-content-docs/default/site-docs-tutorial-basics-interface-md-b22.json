@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-basics/interface.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/interface",
-  "permalink": "/monochord-web/docs/tutorial-basics/interface",
+  "permalink": "/docs/tutorial-basics/interface",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Microton",
-    "permalink": "/monochord-web/docs/category/microton"
+    "permalink": "/docs/category/microton"
   },
   "next": {
     "title": "Tuning",
-    "permalink": "/monochord-web/docs/tutorial-basics/tuning"
+    "permalink": "/docs/tutorial-basics/tuning"
   }
 }

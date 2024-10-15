@@ -1,5 +1,5 @@
 {
-  "/monochord-web/blog-2ea": {
+  "/blog-56f": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -10,16 +10,16 @@
         "content": "ad0a3e90"
       }
     ],
-    "__props": "52aaa2a2"
+    "__props": "c15d9823"
   },
-  "/monochord-web/blog/archive-977": {
+  "/blog/archive-182": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "1ddcad62"
+    "__props": "f81c1134"
   },
-  "/monochord-web/blog/hello-world-44d": {
+  "/blog/hello-world-582": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -30,85 +30,85 @@
     "sidebar": "814f3328",
     "content": "e17cc947"
   },
-  "/monochord-web/contact-8b9": {
+  "/contact-b68": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "66c10cbb"
   },
-  "/monochord-web/deltaz-e27": {
+  "/deltaz-7f0": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "399e791e"
   },
-  "/monochord-web/microton-620": {
+  "/microton-6c5": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "e7ac29c6"
   },
-  "/monochord-web/docs-7e9": {
+  "/docs-84f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/monochord-web/docs-e6e": {
+  "/docs-ff4": {
     "__comp": "a7bd4aaa",
-    "__props": "08ad7022"
+    "__props": "0058b4c6"
   },
-  "/monochord-web/docs-42a": {
+  "/docs-66f": {
     "__comp": "a94703ab"
   },
-  "/monochord-web/docs/category/microton-97f": {
+  "/docs/category/microton-e3d": {
     "__comp": "14eb3368",
-    "__props": "a80b410b"
+    "__props": "a74bc21c"
   },
-  "/monochord-web/docs/category/microton-fm-83d": {
+  "/docs/category/microton-fm-773": {
     "__comp": "14eb3368",
-    "__props": "16230d10"
+    "__props": "a53758b0"
   },
-  "/monochord-web/docs/intro-d30": {
+  "/docs/intro-61d": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/monochord-web/docs/tutorial-basics/au-a17": {
+  "/docs/tutorial-basics/au-b94": {
     "__comp": "17896441",
     "content": "e3d8a402"
   },
-  "/monochord-web/docs/tutorial-basics/interface-cd8": {
+  "/docs/tutorial-basics/interface-b3f": {
     "__comp": "17896441",
     "content": "b22b8111"
   },
-  "/monochord-web/docs/tutorial-basics/synth-18f": {
+  "/docs/tutorial-basics/synth-a3d": {
     "__comp": "17896441",
     "content": "cf6cbce5"
   },
-  "/monochord-web/docs/tutorial-basics/tuning-f59": {
+  "/docs/tutorial-basics/tuning-7b0": {
     "__comp": "17896441",
     "content": "67f32ef7"
   },
-  "/monochord-web/docs/tutorial-extras/au-181": {
+  "/docs/tutorial-extras/au-3a7": {
     "__comp": "17896441",
     "content": "4ab3fd85"
   },
-  "/monochord-web/docs/tutorial-extras/interface-ef7": {
+  "/docs/tutorial-extras/interface-99b": {
     "__comp": "17896441",
     "content": "cbbb1d0b"
   },
-  "/monochord-web/docs/tutorial-extras/synth-7d9": {
+  "/docs/tutorial-extras/synth-3cf": {
     "__comp": "17896441",
     "content": "dc201353"
   },
-  "/monochord-web/docs/tutorial-extras/tuning-b50": {
+  "/docs/tutorial-extras/tuning-e82": {
     "__comp": "17896441",
     "content": "902b338c"
   },
-  "/monochord-web/-238": {
+  "/-e5f": {
     "__comp": "1df93b7f",
     "__context": {
       "plugin": "a7456010"

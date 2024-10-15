@@ -1,68 +1,68 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/monochord-web/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/monochord-web/docs",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/monochord-web/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/au",
-              "path": "/monochord-web/docs/tutorial-basics/au",
+              "path": "/docs/tutorial-basics/au",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/interface",
-              "path": "/monochord-web/docs/tutorial-basics/interface",
+              "path": "/docs/tutorial-basics/interface",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/synth",
-              "path": "/monochord-web/docs/tutorial-basics/synth",
+              "path": "/docs/tutorial-basics/synth",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/tuning",
-              "path": "/monochord-web/docs/tutorial-basics/tuning",
+              "path": "/docs/tutorial-basics/tuning",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/au",
-              "path": "/monochord-web/docs/tutorial-extras/au",
+              "path": "/docs/tutorial-extras/au",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/interface",
-              "path": "/monochord-web/docs/tutorial-extras/interface",
+              "path": "/docs/tutorial-extras/interface",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/synth",
-              "path": "/monochord-web/docs/tutorial-extras/synth",
+              "path": "/docs/tutorial-extras/synth",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/tuning",
-              "path": "/monochord-web/docs/tutorial-extras/tuning",
+              "path": "/docs/tutorial-extras/tuning",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/microton",
-              "path": "/monochord-web/docs/category/microton",
+              "path": "/docs/category/microton",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/microton-fm",
-              "path": "/monochord-web/docs/category/microton-fm",
+              "path": "/docs/category/microton-fm",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,7 +70,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/monochord-web/docs/intro",
+                "path": "/docs/intro",
                 "label": "intro"
               }
             }

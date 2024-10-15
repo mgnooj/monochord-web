@@ -3,110 +3,110 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/monochord-web/blog',
-    component: ComponentCreator('/monochord-web/blog', '2ea'),
+    path: '/blog',
+    component: ComponentCreator('/blog', '56f'),
     exact: true
   },
   {
-    path: '/monochord-web/blog/archive',
-    component: ComponentCreator('/monochord-web/blog/archive', '977'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', '182'),
     exact: true
   },
   {
-    path: '/monochord-web/blog/hello-world',
-    component: ComponentCreator('/monochord-web/blog/hello-world', '44d'),
+    path: '/blog/hello-world',
+    component: ComponentCreator('/blog/hello-world', '582'),
     exact: true
   },
   {
-    path: '/monochord-web/contact',
-    component: ComponentCreator('/monochord-web/contact', '8b9'),
+    path: '/contact',
+    component: ComponentCreator('/contact', 'b68'),
     exact: true
   },
   {
-    path: '/monochord-web/deltaz',
-    component: ComponentCreator('/monochord-web/deltaz', 'e27'),
+    path: '/deltaz',
+    component: ComponentCreator('/deltaz', '7f0'),
     exact: true
   },
   {
-    path: '/monochord-web/microton',
-    component: ComponentCreator('/monochord-web/microton', '620'),
+    path: '/microton',
+    component: ComponentCreator('/microton', '6c5'),
     exact: true
   },
   {
-    path: '/monochord-web/docs',
-    component: ComponentCreator('/monochord-web/docs', '7e9'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '84f'),
     routes: [
       {
-        path: '/monochord-web/docs',
-        component: ComponentCreator('/monochord-web/docs', 'e6e'),
+        path: '/docs',
+        component: ComponentCreator('/docs', 'ff4'),
         routes: [
           {
-            path: '/monochord-web/docs',
-            component: ComponentCreator('/monochord-web/docs', '42a'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '66f'),
             routes: [
               {
-                path: '/monochord-web/docs/category/microton',
-                component: ComponentCreator('/monochord-web/docs/category/microton', '97f'),
+                path: '/docs/category/microton',
+                component: ComponentCreator('/docs/category/microton', 'e3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/category/microton-fm',
-                component: ComponentCreator('/monochord-web/docs/category/microton-fm', '83d'),
+                path: '/docs/category/microton-fm',
+                component: ComponentCreator('/docs/category/microton-fm', '773'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/intro',
-                component: ComponentCreator('/monochord-web/docs/intro', 'd30'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '61d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/tutorial-basics/au',
-                component: ComponentCreator('/monochord-web/docs/tutorial-basics/au', 'a17'),
+                path: '/docs/tutorial-basics/au',
+                component: ComponentCreator('/docs/tutorial-basics/au', 'b94'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/tutorial-basics/interface',
-                component: ComponentCreator('/monochord-web/docs/tutorial-basics/interface', 'cd8'),
+                path: '/docs/tutorial-basics/interface',
+                component: ComponentCreator('/docs/tutorial-basics/interface', 'b3f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/tutorial-basics/synth',
-                component: ComponentCreator('/monochord-web/docs/tutorial-basics/synth', '18f'),
+                path: '/docs/tutorial-basics/synth',
+                component: ComponentCreator('/docs/tutorial-basics/synth', 'a3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/tutorial-basics/tuning',
-                component: ComponentCreator('/monochord-web/docs/tutorial-basics/tuning', 'f59'),
+                path: '/docs/tutorial-basics/tuning',
+                component: ComponentCreator('/docs/tutorial-basics/tuning', '7b0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/tutorial-extras/au',
-                component: ComponentCreator('/monochord-web/docs/tutorial-extras/au', '181'),
+                path: '/docs/tutorial-extras/au',
+                component: ComponentCreator('/docs/tutorial-extras/au', '3a7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/tutorial-extras/interface',
-                component: ComponentCreator('/monochord-web/docs/tutorial-extras/interface', 'ef7'),
+                path: '/docs/tutorial-extras/interface',
+                component: ComponentCreator('/docs/tutorial-extras/interface', '99b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/tutorial-extras/synth',
-                component: ComponentCreator('/monochord-web/docs/tutorial-extras/synth', '7d9'),
+                path: '/docs/tutorial-extras/synth',
+                component: ComponentCreator('/docs/tutorial-extras/synth', '3cf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/monochord-web/docs/tutorial-extras/tuning',
-                component: ComponentCreator('/monochord-web/docs/tutorial-extras/tuning', 'b50'),
+                path: '/docs/tutorial-extras/tuning',
+                component: ComponentCreator('/docs/tutorial-extras/tuning', 'e82'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -117,8 +117,8 @@ export default [
     ]
   },
   {
-    path: '/monochord-web/',
-    component: ComponentCreator('/monochord-web/', '238'),
+    path: '/',
+    component: ComponentCreator('/', 'e5f'),
     exact: true
   },
   {

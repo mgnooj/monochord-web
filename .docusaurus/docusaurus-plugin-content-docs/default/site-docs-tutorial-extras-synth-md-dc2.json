@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-extras/synth.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/synth",
-  "permalink": "/monochord-web/docs/tutorial-extras/synth",
+  "permalink": "/docs/tutorial-extras/synth",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tuning",
-    "permalink": "/monochord-web/docs/tutorial-extras/tuning"
+    "permalink": "/docs/tutorial-extras/tuning"
   },
   "next": {
     "title": "Audio Unit",
-    "permalink": "/monochord-web/docs/tutorial-extras/au"
+    "permalink": "/docs/tutorial-extras/au"
   }
 }

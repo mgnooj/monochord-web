@@ -5,7 +5,7 @@
   "source": "@site/docs/tutorial-extras/tuning.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/tuning",
-  "permalink": "/monochord-web/docs/tutorial-extras/tuning",
+  "permalink": "/docs/tutorial-extras/tuning",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Interface",
-    "permalink": "/monochord-web/docs/tutorial-extras/interface"
+    "permalink": "/docs/tutorial-extras/interface"
   },
   "next": {
     "title": "Synth",
-    "permalink": "/monochord-web/docs/tutorial-extras/synth"
+    "permalink": "/docs/tutorial-extras/synth"
   }
 }

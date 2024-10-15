@@ -3,7 +3,7 @@
   "items": [
     {
       "title": "Hello World!",
-      "permalink": "/monochord-web/blog/hello-world",
+      "permalink": "/blog/hello-world",
       "unlisted": false
     }
   ]

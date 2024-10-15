@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/monochord-web/contact",
+  "permalink": "/contact",
   "source": "@site/src/pages/contact.md",
   "title": "Contact",
   "frontMatter": {
