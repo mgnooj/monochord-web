@@ -49,8 +49,9 @@ const config: Config = {
   themeConfig: {
     //image: '',
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
       disableSwitch: true,
+      respectPrefersColorScheme: false,
     },
     navbar: {
       title: 'Euclidean Instruments',
