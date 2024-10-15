@@ -81,6 +81,11 @@ const config: Config = {
               label: 'Home',
               to: '/',
             },
+          ],
+        },
+        {
+          title: ' ',
+          items: [
             {
               label: 'Docs',
               to: '/docs/intro',
@@ -90,10 +95,6 @@ const config: Config = {
         {
           title: ' ',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'Contact',
               to: '/contact',

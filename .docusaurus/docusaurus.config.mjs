@@ -78,7 +78,12 @@ export default {
             {
               "label": "Home",
               "to": "/"
-            },
+            }
+          ]
+        },
+        {
+          "title": " ",
+          "items": [
             {
               "label": "Docs",
               "to": "/docs/intro"
@@ -88,10 +93,6 @@ export default {
         {
           "title": " ",
           "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
             {
               "label": "Contact",
               "to": "/contact"
