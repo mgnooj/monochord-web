@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmonochord_web=self.webpackChunkmonochord_web||[]).push([[688],{1167:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/monochord-web/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
