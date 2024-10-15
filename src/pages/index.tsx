@@ -6,34 +6,10 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const titleLight = require('@site/static/img/logo_light.png').default;
-  const titleDark = require('@site/static/img/logo_dark.png').default;
-  const bannerLight = require('@site/static/img/banner_light.gif').default;
-  const bannerDark = require('@site/static/img/banner_dark.gif').default;
-  const taglineLight = require('@site/static/img/tagline_light.png').default;
-  const taglineDark = require('@site/static/img/tagline_dark.png').default;
+  const logo = require('@site/static/img/logo_dark.png').default;
+  const banner = require('@site/static/img/banner_dark.gif').default;
+  const tagline = require('@site/static/img/tagline_dark.png').default;
   const appstore = require('@site/static/img/app.png').default;
-  //const doc = document.documentElement;
-
-  //const lightTheme = doc.getAttribute("data-theme") === "light";  
-  //const banner = !lightTheme ? bannerLight : bannerDark;
-  //const logo = !lightTheme ? titleLight : titleDark;
-  //const tagline = !lightTheme ? taglineLight : taglineDark;
-//
-  //doc.addEventListener("click", function() {
-  //  const lightTheme = doc.getAttribute("data-theme") === "light";  
-  //  const banner = document.getElementById("banner");
-  //  const logo = document.getElementById("titleLogo");
-  //  const tagline = document.getElementById("tagline");
-  //  if (banner != null && logo != null) {
-  //    banner.src = !lightTheme ? bannerLight : bannerDark;
-  //    logo.src = !lightTheme ? titleLight : titleDark;
-  //    tagline.src = !lightTheme ? taglineLight : taglineDark;
-  //  }
-  //});
-  const banner = bannerLight;
-  const logo = titleLight;
-  const tagline = taglineLight;
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="col">

@@ -48,6 +48,10 @@ const config: Config = {
 
   themeConfig: {
     //image: '',
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+    },
     navbar: {
       title: 'Euclidean Instruments',
       logo: {
