@@ -3,6 +3,7 @@
   "permalink": "/contact",
   "source": "@site/src/pages/contact.md",
   "title": "Contact",
+  "description": "Please contact us at support@euclidean-instruments.com.",
   "frontMatter": {
     "title": "Contact"
   },

@@ -13,6 +13,7 @@ export default {
   "66c10cbb": [() => import(/* webpackChunkName: "66c10cbb" */ "@site/src/pages/contact.md"), "@site/src/pages/contact.md", require.resolveWeak("@site/src/pages/contact.md")],
   "67f32ef7": [() => import(/* webpackChunkName: "67f32ef7" */ "@site/docs/tutorial-basics/tuning.md"), "@site/docs/tutorial-basics/tuning.md", require.resolveWeak("@site/docs/tutorial-basics/tuning.md")],
   "814f3328": [() => import(/* webpackChunkName: "814f3328" */ "~blog/default/blog-post-list-prop-default.json"), "~blog/default/blog-post-list-prop-default.json", require.resolveWeak("~blog/default/blog-post-list-prop-default.json")],
+  "8e33b65d": [() => import(/* webpackChunkName: "8e33b65d" */ "@site/src/pages/privacy.md"), "@site/src/pages/privacy.md", require.resolveWeak("@site/src/pages/privacy.md")],
   "902b338c": [() => import(/* webpackChunkName: "902b338c" */ "@site/docs/tutorial-extras/tuning.md"), "@site/docs/tutorial-extras/tuning.md", require.resolveWeak("@site/docs/tutorial-extras/tuning.md")],
   "9e4087bc": [() => import(/* webpackChunkName: "9e4087bc" */ "@theme/BlogArchivePage"), "@theme/BlogArchivePage", require.resolveWeak("@theme/BlogArchivePage")],
   "a53758b0": [() => import(/* webpackChunkName: "a53758b0" */ "@generated/docusaurus-plugin-content-docs/default/p/docs-category-microton-fm-2c2.json"), "@generated/docusaurus-plugin-content-docs/default/p/docs-category-microton-fm-2c2.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/docs-category-microton-fm-2c2.json")],
