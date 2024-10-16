@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.4.0">
 <title data-rh="true">Synth | Euclidean Instruments</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://euclidean-instruments.com/docs/tutorial-extras/synth"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Synth | Euclidean Instruments"><meta data-rh="true" name="description" content="Dive into the Microton FM&#x27;s flexible synthesis module."><meta data-rh="true" property="og:description" content="Dive into the Microton FM&#x27;s flexible synthesis module."><link data-rh="true" rel="icon" href="/img/littlelogo.png"><link data-rh="true" rel="canonical" href="https://euclidean-instruments.com/docs/tutorial-extras/synth"><link data-rh="true" rel="alternate" href="https://euclidean-instruments.com/docs/tutorial-extras/synth" hreflang="en"><link data-rh="true" rel="alternate" href="https://euclidean-instruments.com/docs/tutorial-extras/synth" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="Euclidean Instruments RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Euclidean Instruments Atom Feed"><link rel="stylesheet" href="/assets/css/styles.5f525640.css">
-<script src="/assets/js/runtime~main.30c10f1d.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.98c10004.js" defer="defer"></script>
 <script src="/assets/js/main.ad097f9a.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -22,28 +22,7 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="fm-operators">FM Operators<a class="hash-link" aria-label="Direct link to FM Operators" title="Direct link to FM Operators" href="/docs/tutorial-extras/synth#fm-operators">​</a></h2>
 <p>FM stands for &#x27;frequency modulation&#x27;. The basic building block of an FM synth is an &#x27;operator&#x27;, which consists of at least two oscillators called the &#x27;carrier&#x27; and &#x27;modulator&#x27;. The modulator oscillator produces a frequency which is then fed into the carrier. The interaction of the two signals produces a new frequency. Simple in conception, FM synthesis allows for an incredibly diverse range of sounds unattainable via analog-style subtractive synthesis.</p>
 <p>Microton FM features two operators running in parallel. There are two modes for programming these operators: the default, which provides a ratio knob that controls the ratio of the modulating signal frequency to the carrier frequency, and an index knob which controls the amount of modulation on the carrier frequency. The ratio knob&#x27;s settings are listed in the following table.</p>
-<p>| Knob| Ratio |
-| 0.0 | [1.0, 1.0] |
-| 1.0 | [1.0, 4.0 / 3.0] |
-| 2.0 | [1.0, 1.5] |
-| 3.0 | [1.0, 2.0] |
-| 4.0 | [1.0, 2.5] |
-| 5.0 | [1.0, 3.0] |
-| 6.0 | [1.0, 3.5] |
-| 7.0 | [1.0, 4.0] |
-| 8.0 | [1.0, 5.0] |
-| 9.0 | [2.0, 3.0] |
-| 10.0 | [2.0, 4.0] |
-| 11.0 | [2.0, 5.0] |
-| 12.0 | [2.0, 7.0] |
-| 13.0 | [3.0, 4.0] |
-| 14.0 | [3.0, 5.0] |
-| 15.0 | [4.0, 5.0] |
-| 16.0 | [5.0, 6.0] |
-| 17.0 | [6.0, 9.0] |
-| 18.0 | [7.0, 8.0] |
-| 19.0 | [7.0, 9.0] |
-| 20.0 | [8.0, 11.0] |</p>
+<table><thead><tr><th>Knob</th><th>Ratio</th></tr></thead><tbody><tr><td>0.0</td><td>[1.0, 1.0]</td></tr><tr><td>1.0</td><td>[1.0, 4.0 / 3.0]</td></tr><tr><td>2.0</td><td>[1.0, 1.5]</td></tr><tr><td>3.0</td><td>[1.0, 2.0]</td></tr><tr><td>4.0</td><td>[1.0, 2.5]</td></tr><tr><td>5.0</td><td>[1.0, 3.0]</td></tr><tr><td>6.0</td><td>[1.0, 3.5]</td></tr><tr><td>7.0</td><td>[1.0, 4.0]</td></tr><tr><td>8.0</td><td>[1.0, 5.0]</td></tr><tr><td>9.0</td><td>[2.0, 3.0]</td></tr><tr><td>10.0</td><td>[2.0, 4.0]</td></tr><tr><td>11.0</td><td>[2.0, 5.0]</td></tr><tr><td>12.0</td><td>[2.0, 7.0]</td></tr><tr><td>13.0</td><td>[3.0, 4.0]</td></tr><tr><td>14.0</td><td>[3.0, 5.0]</td></tr><tr><td>15.0</td><td>[4.0, 5.0]</td></tr><tr><td>16.0</td><td>[5.0, 6.0]</td></tr><tr><td>17.0</td><td>[6.0, 9.0]</td></tr><tr><td>18.0</td><td>[7.0, 8.0]</td></tr><tr><td>19.0</td><td>[7.0, 9.0]</td></tr><tr><td>20.0</td><td>[8.0, 11.0]</td></tr></tbody></table>
 <p>By clicking the button next to the ratio knob, the Microton will display text fields for the carrier and modulator frequencies, which users can edit directly.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="filter">Filter<a class="hash-link" aria-label="Direct link to Filter" title="Direct link to Filter" href="/docs/tutorial-extras/synth#filter">​</a></h2>
 <p>The filter section contains two separate filters: 70&#x27;s inspired low-pass filter, with cutoff 20 hz - 12000 hz, and a high-pass filter, with a cutoff range of 12000hz to 24000hz.</p>
@@ -60,32 +39,6 @@
 <p>Switch between modes with single voice and six independent voices.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="midi-controls">MIDI controls<a class="hash-link" aria-label="Direct link to MIDI controls" title="Direct link to MIDI controls" href="/docs/tutorial-extras/synth#midi-controls">​</a></h2>
 <p>In standalone mode, Microton FM automatically maps MIDI controls to its parameters. The following table lists the parameter and its respective MIDI CC value.</p>
-<p>| 20 | Waveform 1 |
-| 21 | Amplitude 1 |
-| 22 | Mod Ratio 1 |
-| 23 | Mod Index 1 |
-| 24 | High Cut 1 |
-| 25 | High Res 1 |
-| 26 | Low Cut 1 |
-| 27 | Low Res 1 |
-| 28 | Attack 1 |
-| 29 | Decay 1 |
-| 30 | Sustain 1 |
-| 31 | Release 1 |
-| 32 | Glide 1 |
-| 33 | Waveform 2 |
-| 34 | Amplitude 2 |
-| 35 | Mod Ratio 2 |
-| 36 | Mod Index 2 |
-| 37 | High Cut 2 |
-| 38 | High Res 2 |
-| 39 | Low Cut 2 |
-| 40 | Low Re2 |
-| 41 | Attack 2 |
-| 42 | Decay 2 |
-| 43 | Sustain 2 |
-| 44 | Release 2 |
-| 45 | Glide 2 |
-| 46 | Polyphony |</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/docs/tutorial-extras/tuning"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Tuning</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/docs/tutorial-extras/au"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Audio Unit</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#overview-fm-synthesis">Overview: FM Synthesis</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#fm-operators">FM Operators</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#filter">Filter</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#envelope">Envelope</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#keyboard-interface">Keyboard interface</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#presets">Presets</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#monopoly-switch">Mono/Poly switch</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#midi-controls">MIDI controls</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title"> </div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/">Home</a></li></ul></div><div class="col footer__col"><div class="footer__title"> </div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/docs/intro">Docs</a></li></ul></div><div class="col footer__col"><div class="footer__title"> </div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/contact">Contact</a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Euclidean Instruments, LLC</div></div></div></footer></div>
+<table><thead><tr><th>MIDI CC</th><th>Param</th></tr></thead><tbody><tr><td>20</td><td>Waveform 1</td></tr><tr><td>21</td><td>Amplitude 1</td></tr><tr><td>22</td><td>Mod Ratio 1</td></tr><tr><td>23</td><td>Mod Index 1</td></tr><tr><td>24</td><td>High Cut 1</td></tr><tr><td>25</td><td>High Res 1</td></tr><tr><td>26</td><td>Low Cut 1</td></tr><tr><td>27</td><td>Low Res 1</td></tr><tr><td>28</td><td>Attack 1</td></tr><tr><td>29</td><td>Decay 1</td></tr><tr><td>30</td><td>Sustain 1</td></tr><tr><td>31</td><td>Release 1</td></tr><tr><td>32</td><td>Glide 1</td></tr><tr><td>33</td><td>Waveform 2</td></tr><tr><td>34</td><td>Amplitude 2</td></tr><tr><td>35</td><td>Mod Ratio 2</td></tr><tr><td>36</td><td>Mod Index 2</td></tr><tr><td>37</td><td>High Cut 2</td></tr><tr><td>38</td><td>High Res 2</td></tr><tr><td>39</td><td>Low Cut 2</td></tr><tr><td>40</td><td>Low Re2</td></tr><tr><td>41</td><td>Attack 2</td></tr><tr><td>42</td><td>Decay 2</td></tr><tr><td>43</td><td>Sustain 2</td></tr><tr><td>44</td><td>Release 2</td></tr><tr><td>45</td><td>Glide 2</td></tr><tr><td>46</td><td>Polyphony</td></tr></tbody></table></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/docs/tutorial-extras/tuning"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Tuning</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/docs/tutorial-extras/au"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Audio Unit</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#overview-fm-synthesis">Overview: FM Synthesis</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#fm-operators">FM Operators</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#filter">Filter</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#envelope">Envelope</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#keyboard-interface">Keyboard interface</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#presets">Presets</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#monopoly-switch">Mono/Poly switch</a></li><li><a class="table-of-contents__link toc-highlight" href="/docs/tutorial-extras/synth#midi-controls">MIDI controls</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="col footer__col"><div class="footer__title"> </div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/">Home</a></li></ul></div><div class="col footer__col"><div class="footer__title"> </div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/docs/intro">Docs</a></li></ul></div><div class="col footer__col"><div class="footer__title"> </div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/contact">Contact</a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2024 Euclidean Instruments, LLC</div></div></div></footer></div>
 </body>
 </html>
