@@ -22,7 +22,7 @@ The tuning dashboard gives you a text-and-numbers based representation of your c
 
 ![Dashboard - styling](/img/styler.png)
 
-When an element is selected on the Microton view, the tuning dashboard changes to an element detail view, where users can view and edit an elements fundamental properties and styling features.
+When an element is selected on the Monochord view, the tuning dashboard changes to an element detail view, where users can view and edit an elements fundamental properties and styling features.
 
 ## Monochord
 

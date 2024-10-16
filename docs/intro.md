@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ![Microton Interface](/img/interface_with_keyboard.png)
 
-This site contains the documentation for the Microton Analog Modeling Synthesizer series.
+This site contains the documentation for the Microton Virtual Synthesizer series.
 
 The Microton gives users the sounds of classic analog synthesizers along with effortless access to microtonal tunings and temperaments.
 

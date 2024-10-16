@@ -24,7 +24,7 @@ Every Tuning has at least two elements:
 
 A Tuning can have any number of elements greater than two. Note that the MIDI standard limits the number of accessible notes to 128 at any given frame (see the MIDI Transpose control to learn how to control the instrument's coverage of a tuning.) 
 
-The currently selected Tuning will be mapped to MIDI controls with note 60 (traditionally C4, or middle C) as the root element.
+The currently selected Tuning will be mapped to MIDI controls with note 69 (traditionally A4, or the A above middle C) as the root element.
 
 ## The Monochord
 

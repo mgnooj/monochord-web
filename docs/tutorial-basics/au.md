@@ -8,7 +8,7 @@ Use your new creations in your favorite DAW.
 
 ## Installation
 
--
+The Microton AUv3 package will be installed along with the desktop version of Microton from the App Store. No additional installation steps are necessary.
 
 ## Interface
 
@@ -23,5 +23,3 @@ The Synth controls are contained in a scrolling window in the bottom half of the
 The Microton AU shares its database with the main Microton application, meaning all of your saved Tunings and Synth patches are available in both applications.
 
 The Microton AU can also save presets in the DAW for saving and loading patches locally.
-
-Note that there is currently no support for saving and loading Tuning presets at the DAW level. The Microton will always load with its default Tuning (i.e. 12-TET) activated. Custom tunings should be loaded each time a project is opened.

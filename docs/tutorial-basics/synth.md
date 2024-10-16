@@ -15,8 +15,6 @@ Like many analog-inspired synths, the Microton can be broken down into four part
     - Filter modifier: A component which optionally makes programmatic modifications to the Filter.
     - Amplitude envelope: A component which modifies a signal's amplitude, or volume.
 
-Mono/Poly switch
-
 ## Oscillator
 
 Morphing oscillator:
@@ -62,3 +60,6 @@ Synths can be saved at any time by pressing the "Save" button and entering a nam
 
 To delete a synth patch, first load the patch from the patches menu, and then press Delete.
 
+## Mono/Poly switch
+
+Switch between modes with single voice and six independent voices.

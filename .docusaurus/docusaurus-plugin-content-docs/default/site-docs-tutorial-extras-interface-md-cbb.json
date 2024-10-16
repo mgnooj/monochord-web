@@ -1,7 +1,7 @@
 {
   "id": "tutorial-extras/interface",
   "title": "Interface",
-  "description": "A quick introduction to the Microton's user interface.",
+  "description": "Microton Interface",
   "source": "@site/docs/tutorial-extras/interface.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/interface",
