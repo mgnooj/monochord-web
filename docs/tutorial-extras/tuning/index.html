@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.4.0">
 <title data-rh="true">Tuning | Euclidean Instruments</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://euclidean-instruments.com/docs/tutorial-extras/tuning"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Tuning | Euclidean Instruments"><meta data-rh="true" name="description" content="Shape and experiment with your instrument&#x27;s tuning."><meta data-rh="true" property="og:description" content="Shape and experiment with your instrument&#x27;s tuning."><link data-rh="true" rel="icon" href="/img/littlelogo.png"><link data-rh="true" rel="canonical" href="https://euclidean-instruments.com/docs/tutorial-extras/tuning"><link data-rh="true" rel="alternate" href="https://euclidean-instruments.com/docs/tutorial-extras/tuning" hreflang="en"><link data-rh="true" rel="alternate" href="https://euclidean-instruments.com/docs/tutorial-extras/tuning" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="Euclidean Instruments RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Euclidean Instruments Atom Feed"><link rel="stylesheet" href="/assets/css/styles.5f525640.css">
-<script src="/assets/js/runtime~main.477f2466.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.3b0e2407.js" defer="defer"></script>
 <script src="/assets/js/main.ad097f9a.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -33,12 +33,18 @@
 <p>Clicking or tapping on any element transforms the tuning dashboard into the Element Editor. The editor displays the various properties of the Element -- fundamental frequency ratio/cents from root, ratio/cents from previous element in tuning -- all of which can be modified by clicking on the field.</p>
 <p>The Element Editor also has a second section, where you can modify the style properties of the element. Selecting a color for the element will change the color of the respective Node on the Monochord (and, if applicable, the respective keys on the Virtual Keyboard.) Users can also store custom names for the element, as well as define the appearance of the key in the &quot;Microtonal&quot; interface (equivalent to making the selected element a White key or a Black key on the virtual keyboard.)</p>
 <p>The Element Editor accepts mathematical expressions as input. For example, users can set the ratio of the Octave element of a tuning to either 2.1, 1.05*2, 10.5/5 -- all of these would be equivalent. This is particularly useful for tunings that use logarithms and exponents to derive its element&#x27;s ratios.</p>
-<p>Valid mathematical symbols:</p>
+<p>Available math operators and symbols include:</p>
 <ul>
-<li>Arithmetical operations: +, -, /, *, ^ (exponent, e.g.: 3^2 == three squared)</li>
-<li>functions: log, sin, cos, tan, etc.</li>
-<li>constants: pi, e,</li>
+<li>Constants: pi (or π), e</li>
+<li>Arithmetic: +, -, *, /</li>
+<li>Exponentiation: ^</li>
+<li>Factorial: !</li>
+<li>Trig: sin, cos, tan, sec, asin, acos, atan, cdc, ctn</li>
+<li>Logarithm: log10, ln (or loge), log2</li>
+<li>Functions: Ceil, floor, round, sqrt, cbrt, abs</li>
 </ul>
+<p>Parenthesis may be used to specify the order of operations and are recommended for complex expressions.</p>
+<p>The expression will be evaluated and stored as a 64-bit floating-point number.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="tuning-toolbar">Tuning toolbar<a class="hash-link" aria-label="Direct link to Tuning toolbar" title="Direct link to Tuning toolbar" href="/docs/tutorial-extras/tuning#tuning-toolbar">​</a></h2>
 <p><img decoding="async" loading="lazy" alt="Tuning toolbar" src="/assets/images/tuning_toolbar-8f7be4db372508e677e5cb5acfd2c144.png" width="1600" height="197" class="img_ev3q"></p>
 <p>The Tuning toolbar provides the user with high-level options to interact with the current Tuning.</p>
