@@ -4,6 +4,8 @@ sidebar_position: 30
 
 # Synth
 
+![Microton Synth Interface](/img/microton_synth_interface.png)
+
 Dive into the Microton's flexible synthesis module.
 
 ## Overview: Subtractive Synthesis
@@ -63,3 +65,33 @@ To delete a synth patch, first load the patch from the patches menu, and then pr
 ## Mono/Poly switch
 
 Switch between modes with single voice and six independent voices.
+
+## MIDI controls
+
+In standalone mode, Microton FM automatically maps MIDI controls to its parameters. The following table lists the parameter and its respective MIDI CC value.
+
+| MIDI CC | Param |
+|---------|-------|
+| 20 | Waveform |
+| 21 | Amplitude |
+| 22 | Sub Waveform |
+| 23 | Sub Amplitude |
+| 24 | Sub Octave |
+| 25 | Cutoff |
+| 26 | Resonance |
+| 27 | LFO On/Off |
+| 28 | LFO Wave |
+| 29 | LFO Frequency |
+| 30 | LFO Amplitude |
+| 31 | Attack |
+| 32 | Decay |
+| 33 | Sustain |
+| 34 | Release |
+| 35 | Glide |
+| 36 | Poly Waveform |
+| 37 | Poly Amplitude |
+| 38 | Poly Attack |
+| 39 | Poly Decay |
+| 40 | Poly Sustain |
+| 41 | Poly Release |
+| 42 | Polyphony On/Off |

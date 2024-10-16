@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Interface
 
-![Microton Interface](/img/interface_with_keyboard.png)
+![Microton FM Interface](/img/fm_interface.png)
 
 Let's look at a quick overview of the Microton FM's user interface.
 
@@ -32,7 +32,7 @@ The Monochord view is a visual representation of your current tuning. You can cl
 
 ## Synth controls
 
-![Synth controls](/img/interface.png)
+![Synth controls](/img/fm_synth_controls.png)
 
 The synth controls section gives you access to your instrument's sound generation parameters. Control oscillators, filter, modulation, and envelope parameters.
 

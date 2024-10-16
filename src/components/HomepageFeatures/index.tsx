@@ -19,7 +19,7 @@ const Main: FeatureItem = {
 }
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Infinite possibilities',
+    title: 'Infinite harmonic possibilities',
     img: require('@site/static/img/infinite.png').default,
     description: (
       <>

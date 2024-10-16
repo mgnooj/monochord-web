@@ -1,7 +1,7 @@
 {
   "id": "tutorial-extras/au",
   "title": "Audio Unit",
-  "description": "Use your new creations in your favorite DAW.",
+  "description": "Microton AU Interface",
   "source": "@site/docs/tutorial-extras/au.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/au",

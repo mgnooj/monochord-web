@@ -8,6 +8,8 @@ Shape and experiment with your instrument's tuning.
 
 ## Basics: the Element
 
+![Element Editor](/img/element_editor.png)
+
 The basic building block of a tuning is an Element. An Element represents a single note from your Tuning.
 
 Every Tuning has at least two elements:
@@ -28,6 +30,8 @@ The currently selected Tuning will be mapped to MIDI controls with note 69 (trad
 
 ## The Monochord
 
+![Monochord Detail](/img/monochord_detail.png)
+
 The Monochord is a visual representation of your Tuning. Each element is represented as a node on the Monochord, located at its respective distance from the root element. 
 
 The tuning dashboard is a text representation of your Tuning. Each column in the table contains Frequency, Cents (from the root), and the Ratio (from the root) for the respective Element.
@@ -38,12 +42,23 @@ The Element Editor also has a second section, where you can modify the style pro
 
 The Element Editor accepts mathematical expressions as input. For example, users can set the ratio of the Octave element of a tuning to either 2.1, 1.05*2, 10.5/5 -- all of these would be equivalent. This is particularly useful for tunings that use logarithms and exponents to derive its element's ratios.
 
-Valid mathematical symbols:
-   - Arithmetical operations: +, -, /, *, ^ (exponent, e.g.: 3^2 == three squared)
-   - functions: log, sin, cos, tan, etc.
-   - constants: pi, e, 
+Available math operators and symbols include:
+
+   - Constants: pi (or π), e
+   - Arithmetic: +, -, *, /
+   - Exponentiation: ^
+   - Factorial: !
+   - Trig: sin, cos, tan, sec, asin, acos, atan, cdc, ctn
+   - Logarithm: log10, ln (or loge), log2
+   - Functions: Ceil, floor, round, sqrt, cbrt, abs
+
+Parenthesis may be used to specify the order of operations and are recommended for complex expressions.
+
+The expression will be evaluated and stored as a 64-bit floating-point number.
 
 ## Tuning toolbar
+
+![Tuning toolbar](/img/tuning_toolbar.png)
 
 The Tuning toolbar provides the user with high-level options to interact with the current Tuning.
 

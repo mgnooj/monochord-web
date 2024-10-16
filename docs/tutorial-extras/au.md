@@ -4,6 +4,8 @@ sidebar_position: 40
 
 # Audio Unit
 
+![Microton AU Interface](/img/au.png)
+
 Use your new creations in your favorite DAW.
 
 ## Installation

@@ -1,7 +1,7 @@
 {
   "id": "tutorial-basics/synth",
   "title": "Synth",
-  "description": "Dive into the Microton's flexible synthesis module.",
+  "description": "Microton Synth Interface",
   "source": "@site/docs/tutorial-basics/synth.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/synth",

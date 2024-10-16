@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Interface
 
-![Microton Interface](/img/interface_with_keyboard.png)
+![Microton Interface](/img/microton_interface.png)
 
 Let's look at a quick overview of the Microton's user interface.
 
