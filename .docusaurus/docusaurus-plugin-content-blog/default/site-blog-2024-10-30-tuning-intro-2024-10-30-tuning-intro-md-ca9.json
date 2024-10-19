@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/an-introduction-to-the-microton-tuning-system",
+  "source": "@site/blog/2024-10-30-tuning-intro/2024-10-30-tuning-intro.md",
+  "title": "An Introduction to the Microton tuning system",
+  "description": "Let's have some fun with the Microton's tuning system.",
+  "date": "2024-10-30T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 1.46,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Euclidean Instruments",
+      "title": "Development team",
+      "url": "https://euclidean-instruments.com",
+      "imageURL": "img/littlelogo.png",
+      "key": "euclid"
+    }
+  ],
+  "frontMatter": {
+    "slug": "an-introduction-to-the-microton-tuning-system",
+    "title": "An Introduction to the Microton tuning system",
+    "authors": [
+      "euclid"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Microton and Microton FM available on the Apple App Store",
+    "permalink": "/blog/release-day"
+  }
+}

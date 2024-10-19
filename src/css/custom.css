@@ -22,3 +22,8 @@
   --ifm-heading-color: white;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+#appstore {
+  margin-left: 20px;
+  margin-right: 20px;
+}

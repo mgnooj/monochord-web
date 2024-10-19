@@ -10,23 +10,22 @@
   "authors": [
     {
       "name": "Euclidean Instruments",
-      "title": "Development Team",
+      "title": "Development team",
       "url": "https://euclidean-instruments.com",
-      "image_url": "img/littlelogo.png",
-      "imageURL": "img/littlelogo.png"
+      "imageURL": "img/littlelogo.png",
+      "key": "euclid"
     }
   ],
   "frontMatter": {
     "slug": "hello-world",
     "title": "Hello World!",
-    "authors": {
-      "name": "Euclidean Instruments",
-      "title": "Development Team",
-      "url": "https://euclidean-instruments.com",
-      "image_url": "img/littlelogo.png",
-      "imageURL": "img/littlelogo.png"
-    },
-    "tags": []
+    "authors": [
+      "euclid"
+    ]
   },
-  "unlisted": false
+  "unlisted": false,
+  "prevItem": {
+    "title": "Microton and Microton FM available on the Apple App Store",
+    "permalink": "/blog/release-day"
+  }
 }

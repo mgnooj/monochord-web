@@ -9,7 +9,8 @@ function HomepageHeader() {
   const logo = require('@site/static/img/logo_dark.png').default;
   const banner = require('@site/static/img/banner_dark.gif').default;
   const tagline = require('@site/static/img/tagline_dark.png').default;
-  const appstore = require('@site/static/img/app.png').default;
+  const appstore = require('@site/static/img/square.png').default;
+  const appstoreFM = require('@site/static/img/square.png').default;
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="col">
@@ -18,8 +19,11 @@ function HomepageHeader() {
         <div className="container">
           <img src={tagline} id="tagline" width="80%"></img>
         </div>
-        <div>
-          <img src={appstore} id="appstore" width="10%"></img>
+        <div className="container">
+          <div>
+            <a href=""><img src={appstore} id="appstore" width="30%"></img></a>
+            <a href=""><img src={appstoreFM} id="appstore" width="30%"></img></a>
+          </div>
         </div>
       </div>
     </header>
