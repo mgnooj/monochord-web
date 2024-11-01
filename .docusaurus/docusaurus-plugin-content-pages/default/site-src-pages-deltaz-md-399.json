@@ -3,7 +3,7 @@
   "permalink": "/deltaz",
   "source": "@site/src/pages/deltaz.md",
   "title": "Delta-Z",
-  "description": "Delta-Z",
+  "description": "Delta-Z interface",
   "frontMatter": {
     "title": "Delta-Z"
   },

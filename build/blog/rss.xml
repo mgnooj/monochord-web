@@ -4,10 +4,45 @@
         <title>Euclidean Instruments Blog</title>
         <link>https://euclidean-instruments.com/blog</link>
         <description>Euclidean Instruments Blog</description>
-        <lastBuildDate>Tue, 15 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[An Introduction to the Microton tuning system]]></title>
+            <link>https://euclidean-instruments.com/blog/an-introduction-to-the-microton-tuning-system</link>
+            <guid>https://euclidean-instruments.com/blog/an-introduction-to-the-microton-tuning-system</guid>
+            <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Let's have some fun with the Microton's tuning system.]]></description>
+            <content:encoded><![CDATA[<p>Let's have some fun with the Microton's tuning system.</p>
+<p><img decoding="async" loading="lazy" alt="Default tuning" src="https://euclidean-instruments.com/assets/images/default-d1b12faaf20a26dfd8502f82c2fa259e.png" width="2720" height="1382" class="img_ev3q"></p>
+<p>The Microton defaults to 12-tone equal temperament (or 12-TET for short) at A440. (Each element's frequency is exactly 100 cents from the previous element, using A4 = 400hz as a starting point.) When we click on each element on the monochord, we can see its properties in the Element Editor.</p>
+<p><img decoding="async" loading="lazy" alt="Element Editor" src="https://euclidean-instruments.com/assets/images/element_editor-fc3feddc32b9526b1fb4a04fbb7226e5.png" width="2722" height="1386" class="img_ev3q"></p>
+<p>Experimenting with alternate standards is simple; we select the root element and input a different frequency. Here, as a tribute to Leonard Bernstein, we retune to A442:</p>
+<p><img decoding="async" loading="lazy" alt="A442" src="https://euclidean-instruments.com/assets/images/a442-fb6423403611804049b438f00a1b8c51.png" width="2727" height="1381" class="img_ev3q"></p>
+<p>The monochord updates all of the other elements (and, by extension, the MIDI map) using the new tuning standard.</p>
+<p>What if we want to do something weird, like C4 = 500hz? Retune the root to 500hz, and input 'C4' in the MIDI transpose field:</p>
+<p><img decoding="async" loading="lazy" alt="C500" src="https://euclidean-instruments.com/assets/images/c500-ed0b8d4019be94575b643e7142df988f.png" width="2721" height="1380" class="img_ev3q"></p>
+<p>We can also modify the elements directly to create our own tuning systems. One way is to simply click/touch and element and drag across the monochord:</p>
+<p><img decoding="async" loading="lazy" alt="Element drag gif" src="https://euclidean-instruments.com/assets/images/element_gif-e7bbb5bbbbfcf5e4c541315e1f533886.gif" width="2726" height="1372" class="img_ev3q"></p>
+<p>For more precision we'll turn back to the Element Editor. First, let's load the Just 5-Limit Augmented 4 tuning. To transform this tuning into its closely related Just 5-Limit Diminished 5 intonation, we modify the ratio of the tritone to 45/32.</p>
+<p><img decoding="async" loading="lazy" alt="Aug to dim" src="https://euclidean-instruments.com/assets/images/aug_to_dim-709e93a365c2de45a0c0c2a640cb3616.gif" width="2726" height="1372" class="img_ev3q"></p>
+<p>Finally, we can use the tuning system to quickly generate tuning templates to experiment with by using the 'Generate Equaltone Tuning' option. Here, we generate a quarter-tone tuning:</p>
+<p><img decoding="async" loading="lazy" alt="Quarter-tone" src="https://euclidean-instruments.com/assets/images/quartertone-0d6e68e3e4a6db818f257bd3d5aa6ec5.gif" width="2726" height="1372" class="img_ev3q"></p>
+<p>And another example, where we generate a 9-tone equal tone tuning, then remove the second and sixth elements, which is the basis for the Microton's preset version of the Javanese Pelog tuning:</p>
+<p>!<a href="https://euclidean-instruments.com/assets/files/pelog-e215adaeaf66bd86d60ec4803b54f017.gif" target="_blank">Pelog</a></p>
+<p>Simple to learn, endless potential. Microton gives you the tools to speak any musical language - or create your own.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Microton and Microton FM available on the Apple App Store]]></title>
+            <link>https://euclidean-instruments.com/blog/release-day</link>
+            <guid>https://euclidean-instruments.com/blog/release-day</guid>
+            <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Microton and Microton FM are officially available for purchase for desktop and iOS!]]></description>
+            <content:encoded><![CDATA[<p>Microton and Microton FM are officially available for purchase for desktop and iOS!</p>
+<p><a href="https://apple.co/3A1akCW" target="_blank" rel="noopener noreferrer"><img decoding="async" loading="lazy" alt="Microton app store link" src="https://euclidean-instruments.com/assets/images/appstore-582d61b072692d45f57aee8ea6b0aa87.png" width="1080" height="1080" class="img_ev3q"></a></p>
+<p><a href="https://apple.co/3YKix8a" target="_blank" rel="noopener noreferrer"><img decoding="async" loading="lazy" alt="Microton FM app store link" src="https://euclidean-instruments.com/assets/images/appstoreFM-30b98774cd5a2d787f56d5bebf8eb26a.png" width="1080" height="1080" class="img_ev3q"></a></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hello World!]]></title>
             <link>https://euclidean-instruments.com/blog/hello-world</link>
