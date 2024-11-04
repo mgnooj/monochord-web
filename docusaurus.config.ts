@@ -61,7 +61,7 @@ const config: Config = {
       },
       items: [
         {to: '/microton', label: 'Microton', position: 'left'},
-        {to: '/deltaz', label: 'Delta-Z', position: 'left'},
+        //{to: '/deltaz', label: 'Delta-Z', position: 'left'},
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
