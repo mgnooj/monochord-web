@@ -20,4 +20,4 @@ Delta-Z is available on the Apple App Store for OSX and iPad. The OSX version in
 
 Get Delta-Z on the Apple App Store here:
 
-[![Delta-Z on the Apple App Store](black.svg)](https://euclidean-instruments.com)
+[![Delta-Z on the Apple App Store](black.svg)](https://apps.apple.com/us/app/delta-z/id6737138294)

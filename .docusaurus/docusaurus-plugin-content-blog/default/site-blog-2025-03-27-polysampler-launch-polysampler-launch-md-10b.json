@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/polysampler-launch",
+  "source": "@site/blog/2025-03-27 polysampler-launch/polysampler-launch.md",
+  "title": "PolySampler launch!",
+  "description": "We're proud to announce the release of the PolySampler for iPad and iPhone.",
+  "date": "2025-03-27T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.39,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Euclidean Instruments",
+      "title": "Development team",
+      "url": "https://euclidean-instruments.com",
+      "imageURL": "img/littlelogo.png",
+      "key": "euclid"
+    }
+  ],
+  "frontMatter": {
+    "slug": "polysampler-launch",
+    "title": "PolySampler launch!",
+    "authors": [
+      "euclid"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "An Introduction to the Microton tuning system",
+    "permalink": "/blog/an-introduction-to-the-microton-tuning-system"
+  }
+}

@@ -61,6 +61,11 @@ export default {
           "position": "left"
         },
         {
+          "to": "/polysampler",
+          "label": "PolySampler",
+          "position": "left"
+        },
+        {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",

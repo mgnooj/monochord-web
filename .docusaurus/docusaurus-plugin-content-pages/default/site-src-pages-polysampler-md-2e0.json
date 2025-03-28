@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/polysampler",
+  "source": "@site/src/pages/polysampler.md",
+  "title": "PolySampler",
+  "description": "PolySampler interface",
+  "frontMatter": {
+    "title": "PolySampler"
+  },
+  "unlisted": false
+}

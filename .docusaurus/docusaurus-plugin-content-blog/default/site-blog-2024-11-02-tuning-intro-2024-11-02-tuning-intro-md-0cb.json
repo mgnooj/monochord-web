@@ -24,6 +24,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "PolySampler launch!",
+    "permalink": "/blog/polysampler-launch"
+  },
   "nextItem": {
     "title": "Microton and Microton FM available on the Apple App Store",
     "permalink": "/blog/release-day"

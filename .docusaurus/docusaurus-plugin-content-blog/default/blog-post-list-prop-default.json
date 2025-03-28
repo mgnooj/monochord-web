@@ -2,6 +2,11 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "PolySampler launch!",
+      "permalink": "/blog/polysampler-launch",
+      "unlisted": false
+    },
+    {
       "title": "An Introduction to the Microton tuning system",
       "permalink": "/blog/an-introduction-to-the-microton-tuning-system",
       "unlisted": false
