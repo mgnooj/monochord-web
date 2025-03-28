@@ -56,6 +56,11 @@ export default {
           "position": "left"
         },
         {
+          "to": "/deltaz",
+          "label": "Delta-Z",
+          "position": "left"
+        },
+        {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
@@ -100,7 +105,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 Euclidean Instruments, LLC"
+      "copyright": "Copyright © 2025 Euclidean Instruments, LLC"
     },
     "prism": {
       "theme": {
