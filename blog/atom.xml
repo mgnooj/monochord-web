@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://euclidean-instruments.com/blog</id>
     <title>Euclidean Instruments Blog</title>
-    <updated>2024-11-02T00:00:00.000Z</updated>
+    <updated>2025-03-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://euclidean-instruments.com/blog"/>
     <subtitle>Euclidean Instruments Blog</subtitle>
     <icon>https://euclidean-instruments.com/img/littlelogo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[PolySampler launch!]]></title>
+        <id>https://euclidean-instruments.com/blog/polysampler-launch</id>
+        <link href="https://euclidean-instruments.com/blog/polysampler-launch"/>
+        <updated>2025-03-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're proud to announce the release of the PolySampler for iPad and iPhone.]]></summary>
+        <content type="html"><![CDATA[<p>We're proud to announce the release of the PolySampler for iPad and iPhone.</p>
+<p><a href="https://apple.co/4j9ChcO" target="_blank" rel="noopener noreferrer"><img decoding="async" loading="lazy" alt="PolySampler on the Apple App Store" src="https://euclidean-instruments.com/assets/images/polysampler_launch-3a0f182712c79b7ad62a5dc1512328c6.png" width="1080" height="1080" class="img_ev3q"></a></p>
+<p>PolySampler gives you the ability to craft unique sounds anywhere you go using your iPhone or iPad. Sixteen individual tracks, each with time-stretching, FX loop, and more. Load samples from your device or use your built-in microphone to use anything as your sound source. Save your favorite samples for use anytime. PolySampler is the most convenient sampler ever built.</p>]]></content>
+        <author>
+            <name>Euclidean Instruments</name>
+            <uri>https://euclidean-instruments.com</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Introduction to the Microton tuning system]]></title>
         <id>https://euclidean-instruments.com/blog/an-introduction-to-the-microton-tuning-system</id>
