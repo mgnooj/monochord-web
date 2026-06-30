@@ -10,7 +10,7 @@ export default {
   "url": "https://euclidean-instruments.com",
   "baseUrl": "/",
   "organizationName": "mgnooj",
-  "projectName": "monochord-web",
+  "projectName": "ei-web",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "scripts": [
